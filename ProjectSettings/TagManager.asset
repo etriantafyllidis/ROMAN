@@ -1,0 +1,46 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - ManipulationJoint
+  - FirstPanda
+  - RotationSensor
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Chain
+  - Interactive Object
+  - Collision Environment
+  - Robot
+  - Goal
+  - 
+  - 
+  - PostProcessing
+  - Ignore Lightning and Reflections
+  - 
+  - 
+  - 
+  - 
+  - RackGoalBottom
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
