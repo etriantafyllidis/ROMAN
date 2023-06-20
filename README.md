@@ -1,5 +1,5 @@
 # RObotic MAnipulation Network (ROMAN) 
-### ROMAN: Hybrid Hierarchical Learning for Solving Complex Sequential Tasks
+### ROMAN - Hybrid Hierarchical Learning for Solving Complex Sequential Tasks
 The source code for running ROMAN as described and detailed in the accompanying manuscript.
 
 <img src="ROMAN_CoverImage.png" align="middle" width="3000"/>
